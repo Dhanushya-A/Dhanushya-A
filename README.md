@@ -102,8 +102,8 @@ Performed end-to-end EDA on restaurant sales data — data cleaning, preprocessi
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME](https://github.com/Dhanushya-A)&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME](https://github.com/Dhanushya-A)&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=[https://github.com/Dhanushya-A]&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[https://github.com/Dhanushya-A]&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
 </p>
 
 ---
