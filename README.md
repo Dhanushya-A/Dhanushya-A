@@ -9,14 +9,14 @@
   <a href="mailto:dhanushyaa.2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/dhanushya01/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/Dhanushya-A"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/></a>
+  <a href="https://portfolio1-ovk7.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/></a>
 </p>
 
 ---
 
 ## 🙋‍♀️ About Me
 
-- 🎓 **B.Sc. Information Technology** (CGPA: 7.6) — graduating 2026
+- 🎓 **B.Sc. Information Technology** (CGPA: 7.6) — graduate 2026
 - 💼 Interned as a **Full Stack Developer** at Wiltech & **Data Science Intern** at AdroIT Technologies
 - 🌱 Currently exploring **Flask, Machine Learning & AI-powered web apps**
 - 🛠️ I love building real-world applications that solve everyday problems
@@ -57,25 +57,25 @@
 ## 🚀 Featured Projects
 
 ### 💊 Smart Medicine Reminder System
-> Flask · Python · SQLite · SQLAlchemy · JavaScript · Twilio API · Flask-Mail
+> Flask · Python · SQLite · SQLAlchemy · HTML . CSS . JavaScript · Twilio API · Flask-Mail
 
 A full-featured web application with user login, email & voice reminders, activity logs, forgot-password flow, and complete medicine tracking.
 
-[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dhanushyaa/Medicine_reminder_webapp)
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Dhanushya-A/Medicine_reminder_webapp.git)
 
 ---
 
 ### 🚔 Smart FIR & Status Tracking Portal
-> Flask · Python · SQLite · Twilio API · Flask-Mail
+> Flask · Python · HTML . CSS . SQLite · Twilio API · Flask-Mail
 
 Role-based portal for citizens and police officers with secure login, FIR submission/management, evidence upload, email/SMS alerts, and real-time location tracking.
 
-[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dhanushyaa/Smart-FIR-and-Status-Tracking-Portal)
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Dhanushya-A/Smart-FIR-and-Status-Tracking-Portal.git)
 
 ---
 
 ### 📊 Restaurant Sales Data Analysis
-> Pandas · NumPy · Matplotlib · Seaborn · Jupyter Notebook
+> Pandas · NumPy · Matplotlib · Seaborn · Machine Learning . Jupyter Notebook
 
 Performed end-to-end EDA on restaurant sales data — data cleaning, preprocessing, and visualization to uncover revenue trends, top-selling products, and business insights.
 
