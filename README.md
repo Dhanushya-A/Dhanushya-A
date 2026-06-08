@@ -1,14 +1,14 @@
-<h1 align="center">Hi there, I'm Dhanushya A 👋</h1>
+<h1 align="center">Hi, I'm Dhanushya A 👋</h1>
 
 <p align="center">
-  <b>Junior Web Developer · Full Stack Enthusiast · Data Science Explorer</b><br/>
-  <i>Information Technology Graduate (2026) — PKN Arts & Science College, Madurai</i>
+  <b>Junior Python Developer . Web Developer · AI Enthusiast · Data Science Explorer</b><br/>
+  <i>Information Technology Graduate (2026) — PKN Arts & Science College, Thirumangalam, Madurai</i>
 </p>
 
 <p align="center">
   <a href="mailto:dhanushyaa.2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/dhanushya01/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Dhanushya-A"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/></a>
 </p>
 
@@ -102,8 +102,8 @@ Performed end-to-end EDA on restaurant sales data — data cleaning, preprocessi
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME](https://github.com/Dhanushya-A)&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME](https://github.com/Dhanushya-A)&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
 </p>
 
 ---
