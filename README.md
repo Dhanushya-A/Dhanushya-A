@@ -16,7 +16,7 @@
 
 ## 🙋‍♀️ About Me
 
-- 🎓 Pursuing **B.Sc. Information Technology** (CGPA: 7.6) — graduating 2026
+- 🎓 **B.Sc. Information Technology** (CGPA: 7.6) — graduating 2026
 - 💼 Interned as a **Full Stack Developer** at Wiltech & **Data Science Intern** at AdroIT Technologies
 - 🌱 Currently exploring **Flask, Machine Learning & AI-powered web apps**
 - 🛠️ I love building real-world applications that solve everyday problems
