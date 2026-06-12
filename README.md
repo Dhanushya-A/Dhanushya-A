@@ -85,8 +85,8 @@ Performed end-to-end EDA on restaurant sales data — data cleaning, preprocessi
 
 | Role | Company | Period |
 |------|---------|--------|
-| 🖥️ Full Stack Development Intern | Wiltech | Jun 2025 |
-| 📊 Data Science Intern | AdroIT Technologies | Jan 2026 |
+| 🖥️ Full Stack Development Intern | Wiltech | Jun 2025-Jul 2025 |
+| 📊 Data Science Intern | AdroIT Technologies | Dec 2025-Jan 2026 |
 
 ---
 
