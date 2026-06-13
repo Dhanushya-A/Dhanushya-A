@@ -81,7 +81,7 @@ Performed end-to-end EDA on restaurant sales data — data cleaning, preprocessi
 
 ---
 
-## 💼 Experience
+## 💼 Intern Experience
 
 | Role | Company | Period |
 |------|---------|--------|
