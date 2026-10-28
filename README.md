@@ -5,7 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=500&size=23&pause=1800&color=2563EB&center=true&vCenter=true&width=650&height=45&lines=Junior+Python+Developer;Web+Developer;AI+%26+Machine+Learning+Enthusiast;Data+Science+Explorer" alt="Animated introduction" />
 </p>
 <p align="center">
-  <b>Junior Python Developer · Web Developer · AI/ML Enthusiast · Data Science Explorer</b><br/>
   <i>B.Sc. Information Technology Graduate (2026) — PKN Arts & Science College, Thirumangalam, Madurai</i>
 </p>
 
