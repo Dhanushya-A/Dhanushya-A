@@ -1,156 +1,135 @@
-
-<h1 align="center">Hi, I'm Dhanushya A</h1>
+# Hi, I'm Dhanushya A 👋
 
 <p align="center">
-  <b>Junior Python Developer · Web Developer · AI/ML Enthusiast · Data Science Explorer</b><br/>
-  <i>B.Sc. Information Technology Graduate (2026) — PKN Arts & Science College, Thirumangalam, Madurai</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=500&size=23&pause=1800&color=2563EB&center=true&vCenter=true&width=650&height=45&lines=Junior+Python+Developer;Web+Developer;AI+%26+Machine+Learning+Enthusiast;Data+Science+Explorer" alt="Animated introduction" />
 </p>
 
 <p align="center">
-  <a href="mailto:dhanushyaa.2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/dhanushya01/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Dhanushya-A"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://portfolio1-ovk7.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/></a>
+  <b>Python Developer · Web Developer · AI/ML Enthusiast</b>
+  <br/>
+  Information Technology Graduate (2026)
+  <br/>
+  PKN Arts & Science College, Thirumangalam, Madurai
+</p>
+
+<p align="center">
+  <a href="mailto:dhanushyaa.2005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-2563EB?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/dhanushya01/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://portfolio1-ovk7.onrender.com/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-334155?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
 
 ---
 
-## 🙋‍♀️ About Me
+## 👩‍💻 About Me
 
-- 🎓 B.Sc. Information Technology Graduate (2026) — CGPA: 7.6
-- 💼 Full Stack Development Intern at Wiltech
-- 📊 Data Science Intern at AdroIT Technologies
-- 🤖 Interested in Artificial Intelligence, Machine Learning, Deep Learning, and Computer Vision
-- 🌱 Currently exploring Flask, TensorFlow, and AI-powered web applications
-- 🛠️ Passionate about building real-world applications that solve everyday problems
-- 📍 Thirumangalam, Madurai, Tamil Nadu, India
-
----
+- 🎓 Information Technology graduate passionate about software development and artificial intelligence.
+- 🐍 Interested in Python programming, web development, machine learning, and data analysis.
+- 🤖 Building projects that apply AI and computer vision to real-world problems.
+- 📊 Exploring data preprocessing, model evaluation, and intelligent automation.
+- 🌱 Continuously learning new technologies and improving my problem-solving skills.
+- 💼 Open to entry-level opportunities in Python development, web development, and AI/ML.
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,php,mysql,git,github,vscode,tensorflow,opencv&perline=6" alt="Technology skills"/>
+</p>
 
-### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+**Programming:** Python, JavaScript, PHP  
+**Web Development:** HTML, CSS  
+**Database:** MySQL  
+**AI & Machine Learning:** TensorFlow/Keras, CNN, MobileNetV2, YOLO, OpenCV  
+**OCR & Data Analysis:** Tesseract OCR, image preprocessing, data visualization  
+**Tools:** Git, GitHub, VS Code
 
-### 🤖 AI, Machine Learning & Computer Vision
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-111F68?style=flat-square&logo=ultralytics&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Tesseract OCR](https://img.shields.io/badge/Tesseract_OCR-4285F4?style=flat-square&logo=google&logoColor=white)
+## 🚀 Featured Projects
 
-### 📊 Data Science & Visualization
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+### 1. Multi-Disease Lung Image Classification
 
-### 🗄️ Databases & Tools
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)
+**Technologies:** Python · TensorFlow/Keras · CNN · MobileNetV2
 
----
+- Developed a machine-learning project to classify lung images into seven categories.
+- Included Normal, Pneumonia, COVID-19, Lung Opacity, Adenocarcinoma, Squamous Cell Carcinoma, and Large Cell Carcinoma.
+- Explored CNN-based image classification and MobileNetV2 transfer learning.
+- Worked on dataset preparation, class balancing, model fine-tuning, and performance evaluation.
 
-## 🚀 Featured AI & Machine Learning Projects
+**Project focus:** Educational image classification and model evaluation; not a clinically validated diagnostic system.
 
-### 🫁 1. Multi-Disease Lung Image Classification
+### 2. Automatic Number Plate Recognition (ANPR)
 
-**Technologies:** Python · TensorFlow · Keras · CNN · MobileNetV2 · NumPy · Matplotlib
+**Technologies:** Python · YOLO · OpenCV · Tesseract OCR
 
-- Developed a deep learning project for classifying lung images into seven categories.
-- Includes Normal, Pneumonia, COVID-19, Lung Opacity, Adenocarcinoma, Squamous Cell Carcinoma, and Large Cell Carcinoma.
-- Explored CNN-based classification and MobileNetV2 transfer learning.
-- Prepared image datasets and created a balanced training subset to address class imbalance.
-- Worked on model fine-tuning, class weighting, evaluation metrics, and visualization.
+- Developed a computer vision workflow for detecting vehicle license plates.
+- Used YOLO-based object detection to locate plates in images.
+- Applied OpenCV preprocessing and Tesseract OCR to extract plate text.
+- Explored multiple image preprocessing variants and OCR consensus to improve text recognition.
 
-**Key Concepts:** Deep Learning · Transfer Learning · Image Classification · Data Preprocessing · Model Evaluation
+### 3. Smart Medicine Reminder System
 
-### 🚘 2. Automatic Number Plate Recognition (ANPR)
+**Technologies:** Add the programming languages, frameworks, and database used in your implementation.
 
-**Technologies:** Python · YOLO · OpenCV · Tesseract OCR · PyTorch
+- Designed a project focused on helping users manage medicine schedules and reminders.
+- Aimed to make medication schedules easier to track through a simple interface.
 
-- Developed a prototype for vehicle license plate detection using a YOLO-based object detection model.
-- Prepared and organized a labeled license plate dataset for training, validation, and testing.
-- Used OpenCV to process detected license plate regions.
-- Integrated Tesseract OCR to extract text from license plate images.
-- Experimented with OCR preprocessing and consensus-based text recognition.
+### 4. Smart FIR & Status Tracking Portal
 
-**Key Concepts:** Object Detection · Computer Vision · Image Processing · Optical Character Recognition (OCR)
+**Technologies:** Add the actual frontend, backend, and database technologies used.
 
----
+- Developed a portal concept for submitting and tracking FIR-related information.
+- Focused on making status updates and information access more convenient.
 
-## 🌐 Featured Web Development Projects
+### 5. Restaurant Sales Data Analysis
 
-### 💊 Smart Medicine Reminder System
+**Technologies:** Python · Add the actual analysis and visualization libraries used.
 
-**Technologies:** Flask · Python · SQLite · SQLAlchemy · HTML · CSS · JavaScript · Twilio API · Flask-Mail
+- Explored restaurant sales data to identify trends and patterns.
+- Focused on summarizing sales information to support data-driven decisions.
 
-- Developed a web application for medicine tracking and reminders.
-- Implemented user authentication, email and voice reminders, activity logs, and password recovery.
-- Integrated communication APIs to support reminder notifications.
-
-[![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Dhanushya-A/Medicine_reminder_webapp.git)
-
-### 🚔 Smart FIR & Status Tracking Portal
-
-**Technologies:** Flask · Python · HTML · CSS · SQLite · Twilio API · Flask-Mail
-
-- Developed a role-based portal for citizens and police officers.
-- Implemented FIR submission and management, evidence uploads, and status tracking.
-- Integrated email/SMS notifications and location-related functionality.
-
-[![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Dhanushya-A/Smart-FIR-and-Status-Tracking-Portal.git)
-
-### 📊 Restaurant Sales Data Analysis
-
-**Technologies:** Python · Pandas · NumPy · Matplotlib · Seaborn · Jupyter Notebook
-
-- Performed exploratory data analysis on restaurant sales data.
-- Conducted data cleaning and preprocessing.
-- Created visualizations to identify revenue trends, top-selling products, and business insights.
-
----
+> **Project links:** Add repository links when the projects are uploaded to GitHub. No repository URLs have been assumed here.
 
 ## 💼 Internship Experience
 
-| Role | Company | Period |
-|---|---|---|
-| 🖥️ Full Stack Development Intern | Wiltech | Jun 2025 – Jul 2025 |
-| 📊 Data Science Intern | AdroIT Technologies | Dec 2025 – Jan 2026 |
+Add your existing internship details here, keeping the company name, role, dates, and responsibilities accurate.
 
----
+## 📜 Certifications
 
-## 🏅 Certifications
+Keep your existing certifications here. Include the certification name, issuing organization, and credential link if available.
 
-- 🏆 Full Stack Development Internship — Wiltech (2025)
-- 🏆 Data Science Internship — AdroIT Technologies (2026)
-- 🐍 Foundation of Coding with Python — Infosys Springboard
-- 🗄️ Oracle Database Foundation — AdroIT Technologies
-
----
-
-## 📈 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhanushya-A&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanushya-A&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Dhanushya-A&show_icons=true&theme=default&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanushya-A&layout=compact&theme=default&hide_border=true" alt="Most-used programming languages"/>
 </p>
 
----
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Dhanushya-A&theme=default&hide_border=true" alt="GitHub contribution streak"/>
+</p>
+
+## 🤝 Connect With Me
 
 <p align="center">
-  <i>"Building one project at a time, one line at a time."</i><br/><br/>
-  <b>Open to entry-level opportunities in Python Development, Web Development, AI/ML, and Data Science! 🚀</b>
+  <a href="https://www.linkedin.com/in/dhanushya01/">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://portfolio1-ovk7.onrender.com/">
+    <img src="https://img.shields.io/badge/Portfolio-Explore_My_Work-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:dhanushyaa.2005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Get_In_Touch-475569?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Learning, building, and growing one project at a time.</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" alt="Decorative footer"/>
 </p>
